@@ -1,0 +1,19 @@
+<classroom>
+        <desks count = "11" ></desks>
+
+	<chairs count = "16" ></chairs>
+
+	<students>
+		<borowiec></borowiec>
+		<craden></craden>
+		<stewart></stewart>
+		<mcnee></mcnee>
+		<goetz></goetz>
+		<fairfield></fairfield>
+		<monroy></monroy>
+		<lee></lee>
+		<harris></harris>
+		<bodin></bodin>
+	</students>
+
+</classroom>
